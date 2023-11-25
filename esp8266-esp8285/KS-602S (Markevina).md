@@ -3,8 +3,8 @@ Single gang wi-fi switch. To flash, simply undo 4 screws in the back and the 4 s
 
 [Link to Blakkader's repo](https://templates.blakadder.com/markevina_KS-602S.html)
 
+### Template & GPIO Map
 
-### Revision KS602S-15A-V1.0
 `{"NAME":"KS-602S","GPIO":[32,1,0,1,0,0,0,0,224,288,0,0,0,0],"FLAG":0,"BASE":18}`
 | GPIO # | Component |
 | ------ | --------- |
@@ -22,5 +22,10 @@ Single gang wi-fi switch. To flash, simply undo 4 screws in the back and the 4 s
 | GPIO15 | None      |
 | GPIO16 | None      |
 | FLAG   | None      |
+
+
+### Revision KS602S-15A-V1.0
+
+Same GPIO map. This is a version with a micro-switch.
 
 ![KS602S-15A-V1 0](assets/KS602S-15A-V1.0.jpg)
