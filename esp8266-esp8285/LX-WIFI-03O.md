@@ -4,6 +4,8 @@ Single Gang Wifi switch. Comes in many forms, from 1 to 4 channels.
 ### Revision US 4CH 20190709
 Sonata doesn't work like it used to with older revisions. There is a header will all the required signals. 
 
+You can run `webbutton5 Bck L` in the console to reflect was button does in the web gui.
+
 `{"NAME":"03O","GPIO":[32,0,0,0,226,225,33,34,224,260,35,227,0,0],"FLAG":0,"BASE":7}`
 
 | GPIO # | Component |
